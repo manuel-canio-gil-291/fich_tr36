@@ -1,0 +1,8 @@
+Resultado del juego encuentra el tesoro
+
+3         N 
+2     B    N 
+1         N 
+0         T 
+   ----------
+   0 1 2 3 
