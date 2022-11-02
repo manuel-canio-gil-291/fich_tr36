@@ -22,7 +22,7 @@ import org.apache.logging.log4j.Logger;
  * el valor correcto, generara el tablero.</p>
  * <p>Una vez creado, empezara el juego, donde el usuario debera ir introduciendo la coordenada (fila, columna).
  * El juego finalizara solo cuando se encuentre el tesoro o la bomba.</p>
- * <p>Cuando acabe el juego, generara un tablero resultante donde se encontraba la bomba y el tesoro y los
+ * <p>Cuando acabe el juego, generara un tablero resultante donde se encontraba la bomba, el tesoro y los
  * intentos realizados, y los cargara en el fichero.</p>
  */
 public class JuegoEncuentraTesoro {
